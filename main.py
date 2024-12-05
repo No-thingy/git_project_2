@@ -1,2 +1,2 @@
-print"Hello Word"
+print("My first Git program!!!")
 # Egor Golubed
